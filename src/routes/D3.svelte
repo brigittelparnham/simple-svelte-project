@@ -238,9 +238,15 @@
         };
 
     const chart = ForceGraph(miserables);
-    console.log(chart);
+
+    //creates chart 
+    console.log(chart)
+
 </script>
 
 <main>
-    {chart}
+<!--doesnt draw it ???-->
+   {chart}
+  
 </main>
+
