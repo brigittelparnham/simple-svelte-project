@@ -1,6 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\src",
+    "\\src\\components",
+    "\\src\\lib",
+    "\\src\\routes"
   ],
+  "SelectedNode": "\\src\\routes\\Blog.svelte",
   "PreviewInSolutionExplorer": false
 }
